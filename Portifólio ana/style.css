@@ -1,0 +1,17 @@
+img{width: 10%;
+height: 10%;
+}
+tr,td{
+    border: 1px solid;
+    border: color #44a6bee8;
+    text-align: center;
+}
+ul{
+    border: 2px solid;
+    width: 30%;
+    border-color :#081113e8;
+
+}
+body{
+    background-color: rgb(68, 177, 228);
+}
